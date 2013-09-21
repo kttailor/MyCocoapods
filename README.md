@@ -1,0 +1,4 @@
+MyCocoapods
+===========
+
+Sample cocoapods project
